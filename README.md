@@ -10,5 +10,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/recipe-page-C0fLYG7dVR](https://www.frontendmentor.io/solutions/recipe-page-C0fLYG7dVR)
+- Solution URL: [https://www.frontendmentor.io/solutions/recipe-page-b-lq24dAEV](https://www.frontendmentor.io/solutions/recipe-page-b-lq24dAEV)
 - Live Site URL: [https://mschichuang.github.io/Recipe-page/](https://mschichuang.github.io/Recipe-page/)
